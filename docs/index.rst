@@ -20,11 +20,3 @@ variables that are available for:
 * providing FastCGI server information (i.e. adding FastCGIserver records)
 * providing rules for performing actions (based) on the URL (i.e. adding UrlToolkit records, used for URL rewriting, etc.)
 * defining or overriding almost any other advanced configuration option, etc.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   index
-   installation/index
-   config/index
