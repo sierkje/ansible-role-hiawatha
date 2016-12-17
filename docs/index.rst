@@ -28,17 +28,3 @@ variables that are available for:
    index
    installation/index
    config/index
-   config/server
-   config/bindings
-   config/hosts
-   config/directories
-   config/fast-cgi
-   config/url-toolkits
-   config/advanced
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
