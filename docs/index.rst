@@ -26,7 +26,7 @@ variables that are available for:
    :caption: Contents:
 
    index
-   install/index
+   installation/index
    config/index
    config/server
    config/bindings
